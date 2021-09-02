@@ -12,3 +12,5 @@ export const NEW_CART = 'NEW_CART';
 export const NEW_PASTORDERS = 'NEW_PASTORDERS';
 export const EMPTY_CART = 'EMPTY_CART';
 export const FETCH_MEMBER = 'FETCH_MEMBER';
+
+export const FETCH_MEMBERPPO = 'FETCH_MEMBERPPO';

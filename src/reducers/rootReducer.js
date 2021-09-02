@@ -3,6 +3,7 @@ import authReducer from './authReducer';
 import productReducer from './productReducer';
 import regReducer from './regReducer';
 import userReducer from './userReducer';
+import pastReducer from './pastReducer';
 
 
 export default combineReducers({
@@ -10,4 +11,5 @@ export default combineReducers({
     product: productReducer,
     member: regReducer,
     user: userReducer,
+    pastOrder: pastReducer,
 });
