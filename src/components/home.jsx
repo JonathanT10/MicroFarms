@@ -16,7 +16,7 @@ class Home extends Component{
             <div className="behind">
                 <div className="main">
                     <h1>Micro Farms</h1>
-                    <h2>Full-Stack Developer</h2>
+                    <h2>Farming for everyone</h2>
                     <p className="opener">We should all be able to eat fresh food.</p>
                 </div>
             </div>
