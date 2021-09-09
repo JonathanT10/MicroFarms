@@ -7,6 +7,7 @@ import Footer from './src/components/footer';
 import Home from './components/home';
 import Products from './components/products';
 import About from './components/about';
+import Contact from './components/contact';
 
 
 function App() {
