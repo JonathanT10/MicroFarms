@@ -32,6 +32,9 @@ class Store extends Component{
         return(
             <div>
                 <h1>Store</h1>
+                <div>
+                    {this.mapProduct()}
+                </div>
             </div>
         )
     }

@@ -8,6 +8,7 @@ import Home from './components/home';
 import Products from './components/products';
 import About from './components/about';
 import Contact from './components/contact';
+import Store from './components/store';
 
 
 function App() {
@@ -22,6 +23,7 @@ function App() {
         <Route exact path="/products" component={Products} />
         <Route exact path="/about" component={About} />
         <Route exact path="/contact" component={Contact} />
+        <Route exact path="/store" component={Store} />
       </Switch>
       <Footer />
       </BrowserRouter>
