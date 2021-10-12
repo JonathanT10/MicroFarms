@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
-import '../components/css/home.css'
-import Dwig from '../images/comph.jpg'
+
 
 
 class Home extends Component{
